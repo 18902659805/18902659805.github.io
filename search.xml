@@ -4,11 +4,50 @@
   
     
     <entry>
-      <title>公司简介</title>
-      <link href="/2024/12/24/hello-world/"/>
-      <url>/2024/12/24/hello-world/</url>
+      <title>产品-K2</title>
+      <link href="/2024/12/25/%E4%BA%A7%E5%93%81-K2/"/>
+      <url>/2024/12/25/%E4%BA%A7%E5%93%81-K2/</url>
       
-        <content type="html"><![CDATA[<p><strong>欢迎使用</strong>!哈哈哈<a href="https://www.szgch.cn/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a><br>GitHub Copilot</p>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://img.szgch.us.kg/K2.png"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>产品—TP1</title>
+      <link href="/2024/12/25/%E4%BA%A7%E5%93%81-TP1/"/>
+      <url>/2024/12/25/%E4%BA%A7%E5%93%81-TP1/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://img.szgch.us.kg/TP1.jpg"></p><p>技术参数:<br>尺寸：159mm x 100mm x 28mm<br>工作电压：12vDC<br>工作电流：200mA。<br>通讯方式：TCP&#x2F;IP标准以太网通讯。</p><p>最大联网节点数：标准以太网星形级联方式控制器节点数无限制。<br>发卡量：65536张<br>刷卡记录：65536条</p><p>节假日：128个自定义节假日设置。</p><p>时段：支持64个可选时段。</p><p>群组：16个自定义群组，可搭配64个时段任意组合。</p><p>读写时间：&lt; 0.3秒。读卡距离：&gt; 30mm</p><p>输出控制：1路可控制的3态（自动&#x2F;常开&#x2F;常闭）继电器输出。</p><p>输出信号：合法&#x2F;非法2路刷卡状态指示灯输出接口</p><p>汉字128x64 超大LCD显示屏，固化国标2级字库</p><p>门磁输入：1路。（隔离保护）。按键输入：1路。（隔离保护）</p><p>K1v5.jpg</p><p>K1新版 接线图.jpg</p><p>K1新版 接非智能锁接线图.jpg</p><p>K1新版 外接二级大继电器.jpg</p><p>K1新版 接智能锁接线图.jpg</p><p>K1新版 接三项开门按钮接线示意图.jpg</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>公司简介</title>
+      <link href="/2024/12/25/hello-world/"/>
+      <url>/2024/12/25/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://img.szgch.us.kg/szGCH2.png"></p><p>&emsp;&emsp;<strong>深圳光成科技有限公司</strong>座落于深圳市龙岗中心城万科珑城原点广场，是专业致力于电子识别智能设备研发、生产与销售为一体的高科技企业。公司由行业资深专家组成，凭借专业化核心技术，创造出成熟、稳定且易于使用的高端以太网考勤、门禁、消费、节能电控等系列产品。<br>&emsp;&emsp;公司骨干系原华润达实智能科技有限公司核心专家，从事智能化产品与系统设计研发近20余年。自1999年全国首创开发出第一款纯以太网TCP&#x2F;IP考勤门禁机以来，一直致力于以太网智能终端设备的研究与推广，作为电子识别智能设备行业的领航者，真诚期待着您的光临与交流。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>软著商标</title>
+      <link href="/2024/12/24/%E8%BD%AF%E8%91%97%E5%95%86%E6%A0%87/"/>
+      <url>/2024/12/24/%E8%BD%AF%E8%91%97%E5%95%86%E6%A0%87/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://img.szgch.us.kg/SZGCH%20BIOS%E8%BD%AF%E8%91%97%E8%AF%81%E4%B9%A6.jpg"></p><p><img src="https://img.szgch.us.kg/%E6%98%93%E7%BA%A6%E8%BD%AF%E8%91%97%E8%AF%81%E4%B9%A6.jpg"></p>]]></content>
       
       
       
